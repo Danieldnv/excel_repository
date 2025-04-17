@@ -50,5 +50,14 @@ $$ER_i = R_f + \beta_i(ER_m - R_f)$$
    <p align="center">
   <img src="imagens/questão 5.png" width="70%"> 
 </p>   
+
+
+$$ER_i = R_f + \beta_i(ER_m - R_f)$$
+
+Where:
+- $ER_i$ = retorno esperado do investimento
+- $R_f$ = taxa livre de risco (nesse caso, a SELIC)
+- $\beta_i$ = beta do investimento (carteira)
+- $ER_m$ = retorno esperado do mercado
      
      
